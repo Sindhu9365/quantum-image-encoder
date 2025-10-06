@@ -81,10 +81,11 @@ Make sure you have the following installed:
 
 ```bash
 # Clone this repository
-git clone https://github.com/yourusername/quantum-image-processing.git
+https://github.com/Sindhu9365/quantum-image-encoder 
 
 # Navigate to the folder
 cd quantum-image-processing
 
 # Install required dependencies
 pip install -r requirements.txt
+
